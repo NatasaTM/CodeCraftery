@@ -7,6 +7,12 @@ import './assets/css/custom.css';
 import '@fortawesome/fontawesome-free/css/all.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min';
 import '@fortawesome/fontawesome-free/css/all.css';
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+
+AOS.init();
+
 
 
 createApp(App).use(router).mount('#app')
+
