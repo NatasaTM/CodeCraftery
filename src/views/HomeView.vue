@@ -1,7 +1,7 @@
 <template>
   <div data-aos="fade-up" data-aos-duration="900"><Jumbotron /></div>
   
-  <div data-aos="fade-up" data-aos-duration="900"><Carousel /></div>
+  <div data-aos="fade-up" data-aos-duration="500"><Carousel /></div>
   <div data-aos="fade-up" data-aos-duration="900">
     <section class="probootstrap-cover overlay text-center mt-5">
     <div class="container">
