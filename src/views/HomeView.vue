@@ -22,7 +22,14 @@
 <!-- end of about me section-->
   </div>
   <div data-aos="fade-up" data-aos-duration="500"><CarouselV3 /></div>
+  
  <div data-aos="fade-up" data-aos-duration="900"><Contact /></div> 
+ 
+
+ <div data-aos="fade-up" data-aos-duration="500"><CarouselV4 /></div>
+
+ 
+
 
 </template>
 
@@ -32,6 +39,8 @@ import Contact from '@/components/Contact.vue';
 import Jumbotron from '@/components/Jumbotron.vue'
 
 import CarouselV3 from '@/components/CarouselV3.vue';
+import CarouselV4 from '@/components/CarouselV4.vue';
+
 
 //import { RouterView } from "vue-router";
 
@@ -41,9 +50,11 @@ export default {
   components: {
     Carousel,
     Contact,
-   Jumbotron,
+   Jumbotron,  
+   CarouselV3,
+   CarouselV4,
+   
   
-   CarouselV3
     
 }
 }
