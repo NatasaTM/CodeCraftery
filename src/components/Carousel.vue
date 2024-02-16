@@ -26,7 +26,7 @@
             </div>
           </div>
           <div class="card mx-5 d-none d-lg-block" style="width: 18rem;">
-            <img src="/images/jpg/coffe (1).jpg" class="card-img-top" alt="...">
+            <img src="../assets/images/coffe.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
@@ -39,7 +39,7 @@
       <div class="carousel-item">
         <div class="card-group">
           <div class="card mx-5" style="width: 18rem;">
-            <img src="/images/jpg/desktopBlueYellow.jpg" class="card-img-top" alt="...">
+            <img src="../assets/images/jpg/desktopBlueYellow.jpg" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
@@ -48,7 +48,7 @@
             </div>
           </div>
           <div class="card mx-5 d-none d-lg-block" style="width: 18rem;">
-            <img src="/images/jpg/coffe (1).jpg" class="card-img-top" alt="...">
+            <img src="../assets/images/coffe.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
@@ -57,7 +57,7 @@
             </div>
           </div>
           <div class="card mx-5 d-none d-lg-block" style="width: 18rem;">
-            <img src="/images/jpg/laptopBlue (1).jpg" class="card-img-top" alt="...">
+            <img src="../assets/images/jpg/laptopBlue (1).jpg" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
@@ -70,7 +70,7 @@
       <div class="carousel-item">
         <div class="card-group">
           <div class="card mx-5" style="width: 18rem;">
-            <img src="/images/jpg/faceBinary (1).jpg" class="card-img-top" alt="...">
+            <img src="../assets/images/jpg/faceBinary (1).jpg" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
@@ -79,7 +79,7 @@
             </div>
           </div>
           <div class="card mx-5 d-none d-lg-block" style="width: 18rem;">
-            <img src="/images/jpg/coffe (1).jpg" class="card-img-top" alt="...">
+            <img src="../assets/images/coffe.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
@@ -88,7 +88,7 @@
             </div>
           </div>
           <div class="card mx-5 d-none d-lg-block" style="width: 18rem;">
-            <img src="/images/jpg/desktopBlueYellow.jpg" class="card-img-top" alt="...">
+            <img src="../assets/images/coffe.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
@@ -114,6 +114,7 @@
 </template>
 <script>
 export default {
+
     name: 'Carousel'
 }
 </script>

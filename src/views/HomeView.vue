@@ -2,6 +2,9 @@
   <div data-aos="fade-up" data-aos-duration="900"><Jumbotron /></div>
   
   <div data-aos="fade-up" data-aos-duration="500"><Carousel /></div>
+
+  
+  
   <div data-aos="fade-up" data-aos-duration="900">
     <section class="probootstrap-cover overlay text-center mt-5">
     <div class="container">
@@ -18,7 +21,7 @@
 </section>
 <!-- end of about me section-->
   </div>
-  
+  <div data-aos="fade-up" data-aos-duration="500"><CarouselV3 /></div>
  <div data-aos="fade-up" data-aos-duration="900"><Contact /></div> 
 
 </template>
@@ -28,6 +31,8 @@ import Carousel from '@/components/Carousel.vue';
 import Contact from '@/components/Contact.vue';
 import Jumbotron from '@/components/Jumbotron.vue'
 
+import CarouselV3 from '@/components/CarouselV3.vue';
+
 //import { RouterView } from "vue-router";
 
 export default {
@@ -36,7 +41,9 @@ export default {
   components: {
     Carousel,
     Contact,
-   Jumbotron
+   Jumbotron,
+  
+   CarouselV3
     
 }
 }
