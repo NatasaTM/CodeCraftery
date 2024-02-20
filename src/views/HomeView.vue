@@ -6,6 +6,7 @@
   
   
   <div data-aos="fade-up" data-aos-duration="900">
+    
     <section class="probootstrap-cover overlay text-center mt-5">
     <div class="container">
         <div class="row probootstrap-vh-75 align-items-center">
@@ -20,6 +21,7 @@
     </div>
 </section>
 <!-- end of about me section-->
+    
   </div>
   <div data-aos="fade-up" data-aos-duration="500"><CarouselV3 /></div>
   

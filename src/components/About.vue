@@ -1,6 +1,7 @@
 <template>
     <!-- about me section-->
- 
+    
+    
 <div class="container transparent-section mt-5 mb-5" style="padding: 20px;">
   
   <h1 class="probootstrap-heading text-center text-white">About Me</h1>
@@ -12,6 +13,8 @@
       </p>
     
 </div>
+
+
 <!-- end of about me section-->
 </template>
 
@@ -23,3 +26,4 @@ export default {
     name: 'about'
 }
 </script>
+
