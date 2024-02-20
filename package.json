@@ -16,8 +16,8 @@
     "vue": "^3.2.13",
     "vue-router": "^4.0.3",
     "vue3-carousel": "^0.3.1",
-    "vuetify": "^3.5.4",
-    "postcss": ">=8.4.31"
+    "vuetify": "^3.5.4"
+    
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~5.0.0",
