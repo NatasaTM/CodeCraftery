@@ -30,8 +30,7 @@ This project is my personal website, showcasing my portfolio, projects, and othe
 - Font Awesome icons for enhanced visual appeal
 
 ### Technologies Used
-- Vue.js 
-- JavaScript framework for building user interfaces
+- Vue.js - JavaScript framework for building user interfaces
 - Vue Router - Official router for Vue.js
 - Bootstrap - Front-end component library for developing with HTML, CSS, and JavaScript
 - Axios - Promise-based HTTP client for making HTTP requests
