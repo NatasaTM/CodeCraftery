@@ -43,4 +43,6 @@ This project is my personal website, showcasing my portfolio, projects, and othe
 This project is under active development. 
 
 ### Backend
-This project has a corresponding server-side component built with Java Spring Boot and MySQL. For more information, refer to the backend project repository - codeCrafteryServerSide.
+This project has a corresponding server-side component built with Java Spring Boot and MySQL. For more information, refer to the backend project repository - <a href="https://github.com/NatasaTM/codeCrafteryServerSide" target="_blank">codeCrafteryServerSide</a>.
+
+
