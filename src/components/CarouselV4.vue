@@ -55,7 +55,7 @@
       const fetchCarouselData = async () => {
         try {
           // Make API request to fetch carousel data from the server
-          const response = await axios.get('http://localhost:8080/api/data');
+          const response = await axios.get('http://localhost:8080/api/blogs');
           carouselData.value = response.data; // Update carouselData with fetched data
           console.log('Carousel data:', JSON.stringify(carouselData.value));
         } catch (error) {
